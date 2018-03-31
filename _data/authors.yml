@@ -14,3 +14,11 @@ krishna:
   url: shriradhakrishna.com
   bio: Radhe! Radhe!
   assets: assets/images/favicon.png
+sangdall:
+  username: sangdall
+  name: Paul Choi
+  location: South Korea
+  url_full: https://github.com/chh-sangdall/
+  url: github.com/chh-sangdall/
+  bio: Aloha!
+  assets: assets/images/sangdall.png
